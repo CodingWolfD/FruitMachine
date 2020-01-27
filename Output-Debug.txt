@@ -1,0 +1,13 @@
+﻿'Slot_Machine.exe' (Win32): Loaded 'D:\CMP104-C++\Unit_Assesment2_SlotMachine\Project\Slot_Machine\x64\Debug\Slot_Machine.exe'. Symbols loaded.
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Slot_Machine.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x266c has exited with code 0 (0x0).
+The thread 0x16b0 has exited with code -1073741510 (0xc000013a).
+The thread 0x20f0 has exited with code -1073741510 (0xc000013a).
+The thread 0x13c8 has exited with code -1073741510 (0xc000013a).
+The program '[10060] Slot_Machine.exe' has exited with code -1073741510 (0xc000013a).

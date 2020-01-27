@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  Save_Game.cpp
+  Slot_Machine.cpp
+  Generating Code...
+C:\Users\danie\Desktop\Unit_Assesment2_SlotMachine\Project\Slot_Machine\Slot_Machine\Slot_Machine.cpp(24,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Slot_Machine.vcxproj -> C:\Users\danie\Desktop\Unit_Assesment2_SlotMachine\Project\Slot_Machine\x64\Debug\Slot_Machine.exe
